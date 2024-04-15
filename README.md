@@ -1,4 +1,4 @@
-##✍ Renomeador de Arquivos
+## ✍ Renomeador de Arquivos
 
 O projeto foi criador para sanar uma dificuldade do meu dia a dia. Eu precisava renomear arquivos MP3 de acordo com o nome que estava referenciado no arquivo Excel (.csv), fazer manualmente demandava tempo por este motivo desenvolvi o renomeador.
 
