@@ -1,8 +1,5 @@
 <?php
 
-#1 passo: Ler o arquivo excel que tem os nomes das gravações
-#2 passo: Ler os arquivos da pasta e ver qual tem o primeiro nome = ao do excel
-#3 passo: Alterar nomes
 
 $handle = fopen("teste.csv", "r");
 $row = 0;
